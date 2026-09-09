@@ -60,7 +60,8 @@ A single DMA copy command traverses four phases, measured using `COLLECTIVE_TYPE
 - **copy** — DMA transfer
 - **sync** — Completion signal propagates back to CPU
 
-<img width="550" height="244" alt="sdma_phases" src="https://github.com/user-attachments/assets/7de99a21-9cf4-45c5-a61e-a467bfaa7013" />
+<img width="850" height="384" alt="image" src="https://github.com/user-attachments/assets/dce5da7e-7bc5-461f-960b-07dc1d9c5bd1" />
+
 
 
 ### MI300X Results
