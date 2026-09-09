@@ -1,0 +1,16 @@
+# Build output
+sdma_collective
+*.o
+
+# Data files (machine-specific, generate locally)
+*.csv
+*.log
+
+# Engine affinity maps (machine-specific, generate with scripts/gen_sdma_map_sysfs.py)
+engineMap*.csv
+
+# Editor/backup files
+*.swp
+*.swo
+*.bak
+*~
